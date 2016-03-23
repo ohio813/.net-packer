@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "managedcrypter", "managedcrypter\managedcrypter.csproj", "{434894BF-7641-4B4A-96D7-8BA22CDEB943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stub", "stub\stub.csproj", "{500571F4-B0F9-4DD5-8244-9F021A6F1511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib", "lib\lib.csproj", "{08325412-FB2A-48A1-B8B1-9562B8EE883F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qapc-injection", "qapc-injection\qapc-injection.csproj", "{70E28231-9E62-438E-80D5-BA7AA347DBFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plugin-creator-ui", "plugin-creator-ui\plugin-creator-ui.csproj", "{59B14115-F058-4E58-AB83-C81B882822E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{434894BF-7641-4B4A-96D7-8BA22CDEB943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{434894BF-7641-4B4A-96D7-8BA22CDEB943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{434894BF-7641-4B4A-96D7-8BA22CDEB943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{434894BF-7641-4B4A-96D7-8BA22CDEB943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{500571F4-B0F9-4DD5-8244-9F021A6F1511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500571F4-B0F9-4DD5-8244-9F021A6F1511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500571F4-B0F9-4DD5-8244-9F021A6F1511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500571F4-B0F9-4DD5-8244-9F021A6F1511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08325412-FB2A-48A1-B8B1-9562B8EE883F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08325412-FB2A-48A1-B8B1-9562B8EE883F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08325412-FB2A-48A1-B8B1-9562B8EE883F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08325412-FB2A-48A1-B8B1-9562B8EE883F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E28231-9E62-438E-80D5-BA7AA347DBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E28231-9E62-438E-80D5-BA7AA347DBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E28231-9E62-438E-80D5-BA7AA347DBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E28231-9E62-438E-80D5-BA7AA347DBFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59B14115-F058-4E58-AB83-C81B882822E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B14115-F058-4E58-AB83-C81B882822E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B14115-F058-4E58-AB83-C81B882822E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B14115-F058-4E58-AB83-C81B882822E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

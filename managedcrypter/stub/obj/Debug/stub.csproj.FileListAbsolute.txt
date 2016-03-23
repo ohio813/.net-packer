@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\stub\bin\Debug\stub.exe
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\stub\bin\Debug\stub.pdb
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\stub\obj\Debug\stub.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\stub\obj\Debug\stub.exe
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\stub\obj\Debug\stub.pdb
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\stub\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll

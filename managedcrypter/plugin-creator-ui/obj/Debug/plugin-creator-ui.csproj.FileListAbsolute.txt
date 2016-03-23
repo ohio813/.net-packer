@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\plugin-creator-ui\bin\Debug\plugin-creator-ui.exe
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\plugin-creator-ui\bin\Debug\plugin-creator-ui.pdb
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\plugin-creator-ui\obj\Debug\plugin-creator-ui.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\plugin-creator-ui\obj\Debug\plugin_creator_ui.MainForm.resources
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\plugin-creator-ui\obj\Debug\plugin_creator_ui.Properties.Resources.resources
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\plugin-creator-ui\obj\Debug\plugin-creator-ui.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\plugin-creator-ui\obj\Debug\plugin-creator-ui.exe
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\plugin-creator-ui\obj\Debug\plugin-creator-ui.pdb
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\plugin-creator-ui\bin\Debug\FastColoredTextBox.dll
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\plugin-creator-ui\bin\Debug\FastColoredTextBox.xml

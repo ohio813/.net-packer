@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\managedcrypter\bin\Debug\managedcrypter.exe
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\managedcrypter\bin\Debug\managedcrypter.pdb
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\managedcrypter\obj\Debug\managedcrypter.exe
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\managedcrypter\obj\Debug\managedcrypter.pdb
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\managedcrypter\obj\Debug\managedcrypter.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\managedcrypter\bin\Debug\Vestris.ResourceLib.dll
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\managedcrypter\bin\Debug\Vestris.ResourceLib.pdb
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\managedcrypter\bin\Debug\Vestris.ResourceLib.xml
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\managedcrypter\bin\Debug\Mono.Cecil.dll
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\managedcrypter\bin\Debug\Mono.Cecil.pdb

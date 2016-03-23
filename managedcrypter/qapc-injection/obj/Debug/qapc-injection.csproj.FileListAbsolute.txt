@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\managed-crypter\managedcrypter\qapc-injection\bin\Debug\qapc-injection.exe
+C:\Users\Admin\Desktop\managed-crypter\managedcrypter\qapc-injection\bin\Debug\qapc-injection.pdb
+C:\Users\Admin\Desktop\managed-crypter\managedcrypter\qapc-injection\obj\Debug\qapc-injection.exe
+C:\Users\Admin\Desktop\managed-crypter\managedcrypter\qapc-injection\obj\Debug\qapc-injection.pdb
+C:\Users\Admin\Desktop\managed-crypter\managedcrypter\qapc-injection\obj\Debug\qapc-injection.csprojResolveAssemblyReference.cache

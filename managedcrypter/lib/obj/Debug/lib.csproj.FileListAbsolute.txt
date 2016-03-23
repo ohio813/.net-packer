@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\lib\bin\Debug\lib.dll
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\lib\bin\Debug\lib.pdb
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\lib\obj\Debug\lib.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\lib\obj\Debug\lib.dll
+C:\Users\admin\Desktop\managed-crypter\managedcrypter\lib\obj\Debug\lib.pdb
